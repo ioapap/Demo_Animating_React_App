@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Demo_Animating_React_App/static/css/main.5ecba520.css",
+    "main.js": "/Demo_Animating_React_App/static/js/main.5d0e2f4b.js",
+    "index.html": "/Demo_Animating_React_App/index.html",
+    "main.5ecba520.css.map": "/Demo_Animating_React_App/static/css/main.5ecba520.css.map",
+    "main.5d0e2f4b.js.map": "/Demo_Animating_React_App/static/js/main.5d0e2f4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ecba520.css",
+    "static/js/main.5d0e2f4b.js"
+  ]
+}
